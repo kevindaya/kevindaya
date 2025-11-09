@@ -1,8 +1,8 @@
-# 🇨🇲 Mon Pseudo - Futur Développeur & Data Analyst 👋
+# Kevin Ndaya - Futur Développeur & Data Analyst 👋
 
 ### ✨ Bienvenue sur mon coin du web !
 
-Je suis étudiant en **deuxième année d'Informatique** à l'**IUT de Douala**. Mon parcours est clair : je suis en pleine immersion pour devenir à la fois un solide **Développeur Backend** et un **Data Analyst**.
+Je suis étudiant en **deuxième année en Génie Informatique** à l'**IUT de Douala**. Mon parcours est clair : je suis en pleine immersion pour devenir à la fois un solide **Développeur Backend** et un **Data Analyst**.
 Voici les technologies qui me passionnent le plus en ce moment et dans lesquelles j'investis mon temps :
 
 | Domaine | Technologies de prédilection |
@@ -32,4 +32,4 @@ Quand je ne suis pas en train de débugger ou d'analyser un jeu de données, je 
 
 Je suis toujours ouvert aux discussions sur la tech, les collaborations sur des projets open-source, ou les opportunités de stage. N'hésitez pas à me contacter :
 
-* 🔗 **LinkedIn:[Kevin Ndaya](https://www.linkedin.com/in/kevin-ndaya-2091b8318/)**
+* 🔗 **LinkedIn: [Kevin Ndaya](https://www.linkedin.com/in/kevin-ndaya-2091b8318/)**

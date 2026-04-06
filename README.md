@@ -21,5 +21,5 @@ Je suis étudiant à l'IUT de Douala<br><br>
 <h3>🔥 Statistiques</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=TON_USERNAME&theme=dark" height="200"/>
+  <img src="https://streak-stats.demolab.com?user=kevindaya&theme=dark" height="200"/>
 </div>

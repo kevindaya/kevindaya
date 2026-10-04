@@ -1,25 +1,22 @@
-<h1 align="center">Bonjour 👋</h1>
+# Bonjour, moi c’est Kevin 👋
 
-<h3>🧑🏽‍💻 À propos de moi</h3>
+🎓 Étudiant ingénieur en informatique à l’UTBM — FISE Informatique, 1re année de branche  
+🔎 Je recherche un stage ST40 de 6 mois à partir de février 2027  
+🎯 Je vise l’ingénierie des données.
 
-<p>
-Je suis étudiant à l'IUT de Douala<br><br>
-🔭 Futur Data Engineer<br>
-📚 J'apprends actuellement Python et SQL<br>
-⚡ J'aime jouer pendant mon temps libre
-</p>
+## Projets
 
-<h3>🛠️ Langages et outils</h3>
+### [Pipeline ETL — Freelancers](https://github.com/kevindaya/pipeline_etl_freelancers)
+Projet d’apprentissage autour de la préparation de données : récupération d’un jeu de données Kaggle, nettoyage et standardisation avec Python et Pandas, puis première mise en place d’un chargement vers BigQuery.
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-</div>
+### [Pipeline ETL de données météo](https://github.com/kevindaya/pipeline_etl_meteo)
+Prototype Python utilisant l’API Open-Meteo pour collecter et organiser des données météo horaires pour plusieurs villes avec Pandas. Projet en cours d’amélioration.
 
-<h3>🔥 Statistiques</h3>
+## Ce que je consolide actuellement
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=kevindaya&theme=dark" height="200"/>
-</div>
+- Python et Pandas pour traiter des données
+- SQL et bases de données, notamment MySQL
+- Git et GitHub
+- BigQuery et les principes du Cloud
+
+J’aime apprendre en construisant des projets et comprendre les choix faits dans chaque étape du traitement des données.
